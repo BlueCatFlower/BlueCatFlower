@@ -1,7 +1,7 @@
 
 <div align="center">
 
-Hi there, a'im Jon.
+# Hi there, a'im Jon.
 
 ![](https://img.shields.io/badge/Programmer-7c3aed?style=flat-square)
 ![](https://img.shields.io/badge/Anime_Enjoyer-be185d?style=flat-square)
