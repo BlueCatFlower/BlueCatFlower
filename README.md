@@ -21,7 +21,7 @@ I write `code` by day and grind **Deepwoken** by night.
 Fueled by *anime OSTs*, unhealthy sleep schedules, and the eternal search for the perfect build.
 
 ---
-# Contact
+### Contact
 discord: @relljonathan
 ---
 
