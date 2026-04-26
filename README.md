@@ -22,7 +22,8 @@ Fueled by *anime OSTs*, unhealthy sleep schedules, and the eternal search for th
 
 ---
 ### Contact
-discord: @relljonathan
+
+Discord: @relljonathan
 ---
 
 ### Tech Stack
